@@ -1,3 +1,9 @@
+/*
+ -Autores: Franco Gajardo, Vicente Gonzales.
+ -Fecha de entrega: 26-10-2025
+ -Tema: Continental/Solitario.
+*/ 
+
 #include <stdio.h>
 
 #define filas 7
