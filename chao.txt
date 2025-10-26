@@ -1,32 +1,34 @@
-6,4,4,4,
-5,6,5,4,
-7,5,5,5,
-7,3,7,5,
-4,5,6,5,
-7,5,5,5,
-5,4,5,6,
-5,7,5,5,
-2,5,4,5,
-5,5,3,5,
-4,3,4,5,
-2,3,4,3,
-5,3,3,3,
-5,1,5,3,
-6,3,4,3,
-4,5,2,5,
-4,7,4,5,
-1,5,3,5,
-4,5,2,5,
-4,3,2,3,
-4,1,4,3,
-1,3,3,3,
-4,3,2,3,
-3,7,3,5,
-3,5,1,5,
-3,1,3,3,
-3,4,3,2,
-1,5,1,3,
-1,3,3,3,
-3,2,3,4,
-2,4,4,4,
 
+Solucion encontrada: En 31 movimientos se encontro la solucion
+
+1: posicion <6,4> a posicion <4,4>
+2: posicion <5,6> a posicion <5,4>
+3: posicion <7,5> a posicion <5,5>
+4: posicion <7,3> a posicion <7,5>
+5: posicion <4,5> a posicion <6,5>
+6: posicion <7,5> a posicion <5,5>
+7: posicion <5,4> a posicion <5,6>
+8: posicion <5,7> a posicion <5,5>
+9: posicion <2,5> a posicion <4,5>
+10: posicion <5,5> a posicion <3,5>
+11: posicion <4,3> a posicion <4,5>
+12: posicion <2,3> a posicion <4,3>
+13: posicion <5,3> a posicion <3,3>
+14: posicion <5,1> a posicion <5,3>
+15: posicion <6,3> a posicion <4,3>
+16: posicion <4,5> a posicion <2,5>
+17: posicion <4,7> a posicion <4,5>
+18: posicion <1,5> a posicion <3,5>
+19: posicion <4,5> a posicion <2,5>
+20: posicion <4,3> a posicion <2,3>
+21: posicion <4,1> a posicion <4,3>
+22: posicion <1,3> a posicion <3,3>
+23: posicion <4,3> a posicion <2,3>
+24: posicion <3,7> a posicion <3,5>
+25: posicion <3,5> a posicion <1,5>
+26: posicion <3,1> a posicion <3,3>
+27: posicion <3,4> a posicion <3,2>
+28: posicion <1,5> a posicion <1,3>
+29: posicion <1,3> a posicion <3,3>
+30: posicion <3,2> a posicion <3,4>
+31: posicion <2,4> a posicion <4,4>
